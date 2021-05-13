@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/szp/Desktop/code/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/music.dir/includes_CXX.rsp -g   --std=c++11 -o CMakeFiles\\music.dir\\src\\main.cpp.obj -c C:\\Users\\szp\\Desktop\\code\\src\\main.cpp",
+  "file": "C:/Users/szp/Desktop/code/src/main.cpp"
+},
+{
+  "directory": "C:/Users/szp/Desktop/code/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/music.dir/includes_CXX.rsp -g   --std=c++11 -o CMakeFiles\\music.dir\\src\\page\\page.cpp.obj -c C:\\Users\\szp\\Desktop\\code\\src\\page\\page.cpp",
+  "file": "C:/Users/szp/Desktop/code/src/page/page.cpp"
+},
+{
+  "directory": "C:/Users/szp/Desktop/code/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/music.dir/includes_CXX.rsp -g   --std=c++11 -o CMakeFiles\\music.dir\\src\\object\\object.cpp.obj -c C:\\Users\\szp\\Desktop\\code\\src\\object\\object.cpp",
+  "file": "C:/Users/szp/Desktop/code/src/object/object.cpp"
+}
+]
